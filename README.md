@@ -3,7 +3,7 @@
 <head>
    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="estilos.css" />
+  <link rel="stylesheet" href="css/estilos.css" />
     <title>Mini Sitio</title>
     </head>
 <body>
@@ -60,3 +60,8 @@
       </div>
     </aside>
   </div>
+<footer>
+    <p>Desarrollado por Luis Daniel</p>
+  </footer>
+</body>
+</html>
